@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img width="180px" alt="conversor logo" src="conversor.png" />
+  <img width="180px" alt="conversor logo" src="./img/imgconversor.png" />
   <br />
   Challenge ONE Java Sprint 01: Crie seu próprio conversor de moeda
 </h4>
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 ## :information_source: Como usar
 
-Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/), [JDK](https://www.oracle.com/java/technologies/downloads/) [Extension Pack for Java](vscjava.vscode-java-pack). Da linha de comando:
+Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/), [JDK](https://www.oracle.com/java/technologies/downloads/), [Extension Pack for Java](vscjava.vscode-java-pack). Da linha de comando:
 
 ```bash
 # Clone o repositório
@@ -33,7 +33,6 @@ $ git clone git@github.com:munhoesrc/Challenge-Oracle-ONE.git
 ```
 Rode o [Run Debug]()
 
-<br/><br/>
 
 <p>Projeto desenvolvido por:</p>
 <ul>
