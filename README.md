@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img width="180px" alt="conversor logo" src="./img/imgconversor.png" />
+  <img width="180px" alt="conversor logo" src="https://i.imgur.com/MFLGA2Q.png" />
   <br />
   Challenge ONE Java Sprint 01: Crie seu próprio conversor de moeda
 </h4>
@@ -32,6 +32,7 @@ $ git clone git@github.com:munhoesrc/Challenge-Oracle-ONE.git
 
 ```
 Rode o [Run Debug]()
+##
 
 
 <p>Projeto desenvolvido por:</p>
